@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts,git,github,figma,linux,nodejs,vscode)](https://skillicons.dev)
 
 Сюда я не отнёс:
-- css-фреймворки, так как изучить их несложно. Использовал tailwind, antd и react-bootstrap
+- всё, что связано с css, так как изучить это несложно. Использовал tailwind, antd и react-bootstrap
 - библиотеки, по типу chart.js, тоже не составит труда изучить при необходимости
 <!--
 **Dunissimo/Dunissimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
