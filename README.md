@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dunissimo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dunissimo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Dunissimo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dunissimo&&bg_color=ffffff&color=000000&title_color=000000&line=fb8c00&point=0000FF)](https://github.com/Dunissimo/github-readme-activity-graph)
-
