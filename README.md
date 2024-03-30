@@ -1,20 +1,20 @@
 # Hi there 👋
 
-Я Frontend Developer, мне 17, учусь в колледже на программиста. Уже больше 2 лет самостоятельно изучаю Frontend. 
+Я Frontend Developer (сейчас работаю fullstack'ом на php + js), мне 18, учусь в колледже на программиста. Уже больше 3 лет самостоятельно изучаю Frontend (работаю последний год). 
 
-- Мой стек: React, JS (TS), Redux Toolkit (or MobX, Zustand)
-- Собираюсь изучить: Тестирование
-- Собираюсь попробовать: другие фреймворки, [![React Native](https://img.shields.io/badge/-React%20Native-blue)](https://reactnative.dev/)
-- Связаться со мной: [![Telegram](https://img.shields.io/badge/-Dunissimo-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dunissimmo)
+## Мой стек: 
+Frontend: React (+ Vue), JS (+ TS), Redux (or MobX, Zustand); 
+
+Backend: Php, Laravel, Yii2;
+
+### Любимый стек:
+React + TS (vite) + Redux (Toolkit);
+
+Связаться со мной: [![Telegram](https://img.shields.io/badge/-Dunissimo-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dunissimmo)
 
 ### То, что я знаю хорошо:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,ts,git,github,figma,linux,nodejs,vscode)](https://skillicons.dev)
-
-Сюда я не отнёс:
-- всё, что связано с css, так как изучить это несложно. Использовал tailwind, antd и react-bootstrap
-- библиотеки, по типу chart.js, тоже не составит труда изучить при необходимости
-- блокчейн, так как на данный момент еще не так глубоко изучил его
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,ts,git,github,figma,linux,nodejs,vscode)](https://skillicons.dev)
 
 <!--
 Here are some ideas to get you started:
