@@ -10,7 +10,7 @@ Backend: Php, Laravel, Yii2;
 ### Любимый стек:
 React + TS (vite) + Redux (Toolkit);
 
-Связаться со мной: [![Telegram](https://img.shields.io/badge/-Dunissimo-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dunissimmo)
+Связаться со мной: [![Telegram](https://img.shields.io/badge/-Dunissimo-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dunis_simo)
 
 ### То, что я знаю хорошо:
 
