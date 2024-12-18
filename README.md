@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 ## Моя статистика: 
+-->
 
 [![Dunissimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dunissimo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dunissimo)](https://git.io/streak-stats)
