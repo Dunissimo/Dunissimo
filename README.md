@@ -12,9 +12,12 @@ React + TS (vite) + Redux (Toolkit);
 
 Связаться со мной: [![Telegram](https://img.shields.io/badge/-Dunissimo-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dunis_simo)
 
+<!--
 ### То, что я знаю хорошо:
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,ts,git,github,figma,linux,nodejs,vscode)](https://skillicons.dev)
+-->
+<!-- 
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,ts,git,github,figma,linux,nodejs,vscode)](https://skillicons.dev) 
+-->
 
 <!--
 Here are some ideas to get you started:
