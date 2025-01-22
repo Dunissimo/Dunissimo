@@ -7,6 +7,8 @@ Frontend: React (+ Vue), JS (+ TS), Redux (or MobX, Zustand);
 
 Backend: Php, Laravel, Yii2;
 
+Other: Потихоньку вникаю в Go; есть желание попробовать геймдев на UE и c++;
+
 ### Любимый стек:
 React + TS (vite) + Redux (Toolkit);
 
