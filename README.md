@@ -1,7 +1,7 @@
 Я Frontend Developer, мне 19, учусь на последнем курсе колледжа на программиста. Уже больше 3 лет изучаю Frontend (работаю с февраля 2024, fullstack на php + js). 
 
 ### Мой стек: 
-Frontend: Js || Ts, React || Vue;
+Frontend: Js || Ts, React || Vue; <br />
 Backend: Php, Laravel, Yii2 || Node.js, Express, NestJS
 
 ### Other:
