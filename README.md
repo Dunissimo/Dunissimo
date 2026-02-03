@@ -2,7 +2,6 @@
 
 ### Мой стек: 
 Frontend: Js || Ts, React || Vue;
-
 Backend: Php, Laravel, Yii2 || Node.js, Express, NestJS
 
 ### Other:
