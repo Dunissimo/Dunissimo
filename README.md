@@ -7,8 +7,8 @@ Backend: Php, Laravel, Yii2; <br />
 Backend: Node.js, Express, NestJS
 
 ### Other:
-Есть базовые знания Go;
-Участвовал в хакатоне T1 2024;
+Есть базовые знания Go; <br />
+Участвовал в хакатоне T1 2024; <br />
 Участвовал в "Профессионалах" в 2025 году в компетенции "Веб-технологии" и в 2026 в "Разработка решений с использованием блокчейн технологий";
 
 Связаться со мной: [![Telegram](https://img.shields.io/badge/-Dunissimo-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dunis_simo)
